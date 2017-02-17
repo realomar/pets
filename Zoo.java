@@ -23,7 +23,7 @@ public class Zoo
         theZoo[7] = new Pet("boring pet");
         theZoo[8] = new Pet("boring pet");
         theZoo[9] = new Pet("boring pet");
-        theZoo[10] = new Pet("boring pet");
+        theZoo[10] = new Pet("Tigger");
         theZoo[11] = new Pet("boring pet");
         theZoo[12] = new Pet("boring pet");
         theZoo[13] = new Pet("boring pet");
